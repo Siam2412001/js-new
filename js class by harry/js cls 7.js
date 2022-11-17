@@ -1,0 +1,1 @@
+let a = prompt("hey whats your age?");
